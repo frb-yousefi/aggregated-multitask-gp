@@ -41,8 +41,8 @@ cd ..
 ### Multi-task GP Setup
 ```bash
 # clone this repository 
-git clone https://github.com/frb-yousefi/multitask-gp
-cd multitask-gp
+git clone https://github.com/frb-yousefi/aggregated-multitask-gp
+cd aggregated-multitask-gp
 
 # install the required Python packages
 pip install -r requirements.txt
