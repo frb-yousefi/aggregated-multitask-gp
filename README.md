@@ -7,7 +7,7 @@ It is based on the [GPy](https://github.com/SheffieldML/GPy) and [HetMOGP](https
 ### Prerequisites 
 For reproducibility, all instructions below are tested with this Docker image: [continuumio/anaconda3:2019.07](https://hub.docker.com/layers/continuumio/anaconda3/2019.07/images/sha256-9fad434f3f775ed245f0f888cda954bc93f81ffdc31d4e3e37d69283260c3f41) - which is based on Debian 10 and Anaconda3 and Python 3.7.3 (Ubuntu works as well). The authors may release a Docker image as well in the future.
 
-If you already gave a Python 3.7 environment, you may want to skip to the `GPy-multitask installation` part below (and ignore all Docker commands)
+If you already have a Python 3.7 environment, you may want to skip to the `GPy-multitask installation` part below (and ignore all Docker commands)
 
 ```bash
 # pull the image
