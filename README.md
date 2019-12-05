@@ -2,6 +2,8 @@
 This repository contains the source code for https://arxiv.org/abs/1906.09412
 It is based on the [GPy](https://github.com/SheffieldML/GPy) and [HetMOGP](https://github.com/pmorenoz/HetMOGP). Here we use a modified version of the GPy which can be access [here](https://github.com/frb-yousefi/GPy-multitask/tree/multitask-gp).
 
+For any questions please contact f dot yousefi at sheffield dot ac dot uk.
+
 ## Setup Instructions
 
 ### Prerequisites 
