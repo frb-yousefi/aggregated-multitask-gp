@@ -4,6 +4,18 @@ It is based on the [GPy](https://github.com/SheffieldML/GPy) and [HetMOGP](https
 
 For any questions please contact f dot yousefi at sheffield dot ac dot uk.
 
+If you use this code, please cite the following paper:
+```
+@inproceedings{YousefiSmithAlvarez19,
+  title = {Multi-task Learning for Aggregated Data using {G}aussian Processes},
+  author = {Yousefi, Fariba and Smith, Michael T and \'{A}lvarez, Mauricio},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+  year = {2019},
+  publisher = {Curran Associates, Inc.},
+  url = {http://papers.nips.cc/paper/9644-multi-task-learning-for-aggregated-data-using-gaussian-processes.pdf}
+}
+```
+
 ## Setup Instructions
 
 ### Prerequisites 
