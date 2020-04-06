@@ -71,3 +71,8 @@ A sample notebook is provided with this repository. Assuming you're running the 
 cd notebooks
 jupyter notebook --port 8888 --ip '*' --allow-root
 ```
+
+### Contributors
+Fariba Yousefi, Michael T. Smith, and Mauricio A Álvarez.
+
+For further information, please contact: [f......@gmail.com](https://mailhide.io/e/GduGS)
